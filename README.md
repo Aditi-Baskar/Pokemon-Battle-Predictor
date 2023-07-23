@@ -1,4 +1,3 @@
-# project-team_15
 # What Will Ash Do?: Pokemon Battle Predictor
 
 
@@ -7,7 +6,7 @@
 2. Akshaya Mohan <akshayamohan@umass.edu>
 3. Jaswanth Reddy Kommuru <jkommuru@umass.edu>
 
-## Video
+## Project Video
 [Project Overview](https://youtu.be/eJlDpRutGw8)
 
 ## Datasets
